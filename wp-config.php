@@ -1,7 +1,7 @@
 <?php
 
-define('WP_HOME','http://matrimonio.web');
-define('WP_SITEURL','http://matrimonio.web');
+define('WP_HOME','http://matrimonio.space');
+define('WP_SITEURL','http://matrimonio.space');
 /**
  * The base configuration for WordPress
  *
@@ -29,10 +29,10 @@ define('DB_NAME', 'matrimonio');
 define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', '');
+define('DB_PASSWORD', '221590jho');
 
 /** MySQL hostname */
-define('DB_HOST', 'localhost');
+define('DB_HOST', '35.231.88.245');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8mb4');
