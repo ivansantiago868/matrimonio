@@ -15465,11 +15465,11 @@ msgstr ""
 
 #: tribe-events/pro/widgets/countdown-widget.php:21
 msgctxt "Dias"
-msgid "days"
+msgid "dias"
 msgstr ""
 
 #: tribe-events/pro/widgets/countdown-widget.php:25
-msgid "hours"
+msgid "Horas"
 msgstr ""
 
 #: tribe-events/pro/widgets/countdown-widget.php:29
@@ -15477,7 +15477,7 @@ msgid "min"
 msgstr ""
 
 #: tribe-events/pro/widgets/countdown-widget.php:34
-msgid "sec"
+msgid "seg"
 msgstr ""
 
 #: tribe-events/pro/widgets/list-widget.php:57
