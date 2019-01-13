@@ -2,23 +2,3 @@
 /.htaccess
 
 wp-config.php
-wp-content/archivoslog/archivo.xml
-wp-content/archivoslog/consecutivo.txt
-wp-content/archivoslog/logcomerssia.txt
-wp-content/archivoslog/archivo.zip
-wp-content/debug.log
-wp-config.php
-wp-content/uploads/backupbuddy_temp
-wp-content/backups/
-wp-content/blogs.dir/
-wp-content/cache/
-wp-content/upgrade/
-wp-content/uploads/
-wp-content/uploads/wc-logs/*
-wp-content/mu-plugins/
-wp-content/wp-cache-config.php
-wp-content/plugins/hello.php
-wp-content/plugins/widgetkit/cache/
-wp-content/archivoslog/*
-php-errors.log
-importador/archivo-importacion.tsv
