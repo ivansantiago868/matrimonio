@@ -109,32 +109,32 @@ if ( fusion_is_element_enabled( 'fusion_countdown' ) ) {
 					array(
 						'show'      => $show_weeks,
 						'class'     => 'weeks',
-						'shortname' => esc_attr__( 'Weeks', 'fusion-builder' ),
-						'longname'  => esc_attr__( 'Weeks', 'fusion-builder' ),
+						'shortname' => esc_attr__( 'Semanas', 'fusion-builder' ),
+						'longname'  => esc_attr__( 'Semanas', 'fusion-builder' ),
 					),
 					array(
 						'show'      => 'yes',
 						'class'     => 'days',
-						'shortname' => esc_attr__( 'Days', 'fusion-builder' ),
-						'longname'  => esc_attr__( 'Days', 'fusion-builder' ),
+						'shortname' => esc_attr__( 'Dias', 'fusion-builder' ),
+						'longname'  => esc_attr__( 'Dias', 'fusion-builder' ),
 					),
 					array(
 						'show'      => 'yes',
 						'class'     => 'hours',
 						'shortname' => esc_attr__( 'Hrs', 'fusion-builder' ),
-						'longname'  => esc_attr__( 'Hours', 'fusion-builder' ),
+						'longname'  => esc_attr__( 'Horas', 'fusion-builder' ),
 					),
 					array(
 						'show'      => 'yes',
 						'class'     => 'minutes',
 						'shortname' => esc_attr__( 'Min', 'fusion-builder' ),
-						'longname'  => esc_attr__( 'Minutes', 'fusion-builder' ),
+						'longname'  => esc_attr__( 'Minutos', 'fusion-builder' ),
 					),
 					array(
 						'show'      => 'yes',
 						'class'     => 'seconds',
-						'shortname' => esc_attr__( 'Sec', 'fusion-builder' ),
-						'longname'  => esc_attr__( 'Seconds', 'fusion-builder' ),
+						'shortname' => esc_attr__( 'Seg', 'fusion-builder' ),
+						'longname'  => esc_attr__( 'Sgundos', 'fusion-builder' ),
 					),
 				);
 
